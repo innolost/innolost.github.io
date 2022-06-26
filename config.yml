@@ -2,7 +2,7 @@ baseURL: http://innolost.github.io
 languageCode: en-us
 title: innolost
 paginate: 5
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -19,14 +19,13 @@ params:
   title: innolost
   description: "innolost's personel site"
   keywords: [Blog, Portfolio]
-  author: innolost
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
