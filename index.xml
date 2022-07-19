@@ -6,7 +6,22 @@
     <description>Recent content on innolost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 20:30:58 +0800</lastBuildDate><atom:link href="http://innolost.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 23:12:35 +0800</lastBuildDate><atom:link href="http://innolost.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基岩專案</title>
+      <link>http://innolost.github.io/posts/cs-bedrocks/</link>
+      <pubDate>Mon, 18 Jul 2022 23:12:35 +0800</pubDate>
+      
+      <guid>http://innolost.github.io/posts/cs-bedrocks/</guid>
+      <description>今天在 github 上發現了 build your own x 這個 repo，決定挑選幾個題目來鍛鍊一下自己的程式能力，並且在實作過程中補足缺少的 CS 知識。
+以下是我認為值得挑戰的四大專案：
+scheme interpreter 作為 cs61a 的 final project，沒有比這更適合作為這場旅程的起點了。
+NEC emulator 光譜的一端是抽象，該轉移注意力到另一端，也就是電腦底層實際運作的方式了。如果不知從何入手就先看一下 Nand2Tetris 的前半段吧。
+web server 先用一個比較簡單的系統來整合至今得到的軟硬體的知識吧
+operating system 挑戰一個更複雜的系統如何？
+待續 四天王有五個不是常識嗎，或許實現一個 neural network? because it&amp;rsquo;s cool.</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>http://innolost.github.io/posts/hello/</link>
