@@ -1,7 +1,7 @@
 ---
 title: "基岩專案"
 date: 2022-07-18T23:12:35+08:00
-draft: true
+draft: false
 ---
 
 今天在 github 上發現了 [build your own x](https://github.com/codecrafters-io/build-your-own-x) 這個 repo，決定挑選幾個題目來鍛鍊一下自己的程式能力，並且在實作過程中補足缺少的 CS 知識。
